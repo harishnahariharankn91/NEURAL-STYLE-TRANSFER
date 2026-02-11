@@ -40,5 +40,7 @@ During execution, the model iteratively updates the generated image using backpr
 The final output is a stylized image that visually blends:
 
 The structure of the content image
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/19c1043f-a948-452d-9a52-558a929282ad" />
+
 
 The artistic patterns of the style image
